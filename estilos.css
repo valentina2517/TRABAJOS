@@ -5,14 +5,15 @@
     font-size: 25px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(246, 239, 239);
+    color: rgb(248, 247, 247);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondos.jpg");
+    background-image: url("fondos3.jpg");
+    
     
 
 }
@@ -21,8 +22,115 @@ body{
     text-align: center;
 }
 .img2{
-    height: 300px;
-    width: 400px;
+    height: 1000px;
+    width: 1000px;
     background-image: url("circuito.jpg");
-    background-repeat: no-repeat;
+background-repeat: no-repeat;
+}
+
+.img3{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img3.png");
+background-repeat: no-repeat;
+}
+
+.img4{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img4.png");
+background-repeat: no-repeat;
+}
+
+.img5{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img5.png");
+background-repeat: no-repeat;
+}
+
+.img6{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img6.png");
+background-repeat: no-repeat;
+}
+.img7{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img7.png");
+background-repeat: no-repeat;
+}
+.img8{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img8.png");
+background-repeat: no-repeat;
+}
+.img9{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img9.png");
+background-repeat: no-repeat;
+}
+.img10{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img10.png");
+background-repeat: no-repeat;
+}
+.img11{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img11.png");
+background-repeat: no-repeat;
+}
+.img12{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img12.png");
+background-repeat: no-repeat;
+}
+.img13{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img13.png");
+background-repeat: no-repeat;
+}
+.img14{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img14.png");
+background-repeat: no-repeat;
+}
+.img15{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img15.png");
+background-repeat: no-repeat;
+}
+.img16{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img16.png");
+background-repeat: no-repeat;
+}
+.img17{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img17.png");
+background-repeat: no-repeat;
+}
+.img18{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img18.png");
+background-repeat: no-repeat;
+}
+
+.IMG19{
+    height: 1000px;
+    width: 2000px;
+    background-image: url("IMG19.png");
+background-repeat: no-repeat;
 }
