@@ -135,8 +135,9 @@ background-repeat: no-repeat;
 background-repeat: no-repeat;
 }
 .img20{
-    height: 2000px;
-    width: 2000px;
+    height: 700px;
+    width: 700px;
     background-image: url("img20.png");
 background-repeat: no-repeat;
+text-align: center;
 }
