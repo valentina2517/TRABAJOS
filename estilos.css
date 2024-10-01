@@ -141,3 +141,17 @@ background-repeat: no-repeat;
 background-repeat: no-repeat;
 text-align: center;
 }
+
+.imgexcel{
+    height: 1000px;
+    width: 900px;
+    background-image: url("funciones\ de\ excel.png");
+    background-repeat: no-repeat;
+}
+.imgexcel1{
+    height: 1000px;
+    width: 900px;
+    background-image: url("img21.png") ;
+    background-repeat: no-repeat;
+}
+    
