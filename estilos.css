@@ -196,3 +196,10 @@ text-align: center;
     background-image:url("img28.png") ;
     background-repeat: no-repeat;
 }
+
+.mapaconceptual{
+    height: 1200px;
+    width: 1000px;
+    background-image:url("mapa\ conceptual.png") ;
+    background-repeat: no-repeat;
+}
