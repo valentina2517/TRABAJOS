@@ -203,3 +203,17 @@ text-align: center;
     background-image:url("mapa\ conceptual.png") ;
     background-repeat: no-repeat;
 }
+
+.img29{
+    height: 1000px;
+    width: 1000px;
+    background-image:url("img29.png") ;
+    background-repeat: no-repeat;
+}
+
+.img30{
+    height: 1000px;
+    width: 1000px;
+    background-image:url("img30.jpg") ;
+    background-repeat: no-repeat;
+}
